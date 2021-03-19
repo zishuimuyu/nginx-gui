@@ -55,7 +55,7 @@ crazyleojay/nginx_ui:latest
 
 配置文件路径：`/usr/local/nginx/conf/nginx.conf`
 
-开发者可以自行配置。
+开发者可以自行配置..。
 
 ```dockerfile
 docker run --detach \
